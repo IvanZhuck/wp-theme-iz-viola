@@ -67,7 +67,10 @@ if (!function_exists('iz_custom_burger_svg_icon')) {
     function iz_custom_burger_svg_icon(string $block_content, array $block)
     {
         if ($block['blockName'] === 'core/navigation' && !is_admin() && !wp_is_json_request()) {
-            $svg = '<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 5H32V9H4V5ZM4 16H32V20H4V16ZM4 27H32V31H4V27Z" fill="#09121F"/></svg>';
+            $theme_settings = WP_Theme_JSON_Resolver::get_merged_data()->get_settings();
+            $bg_color = $theme_settings['color']['palette']['theme'][5]['color'];
+
+            $svg = '<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 5H32V9H4V5ZM4 16H32V20H4V16ZM4 27H32V31H4V27Z" fill="' . $bg_color . '"/></svg>';
 
             return preg_replace('/\<svg width(.*?)\<\/svg\>/', $svg, $block_content);
         }

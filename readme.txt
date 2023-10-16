@@ -4,8 +4,8 @@ Tags: blog, one-column, block-patterns, block-styles, custom-background, custom-
 Requires at least: 6.0
 Tested up to: 6.3
 Requires PHP: 7.4
-Version: 1.0.4
-Stable tag: 1.0.4
+Version: 1.0.5
+Stable tag: 1.0.5
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,12 +46,18 @@ Soure: https://wordpress.org/photos/photo/67761b1e1e/
 
 == Changelog ==
 
+= 1.0.5 September 12 2023 =
+* Added dark style.
+
+= 1.0.4 September 14 2023 =
+* Fixed CSS styles.
+
 = 1.0.3 September 12 2023 =
-* Fixed CSS styles
-* Added more colors to the theme palette
+* Fixed CSS styles.
+* Added more colors to the theme palette.
 
 = 1.0.2 September 11 2023 =
-* Replaced default email address in the page footer
+* Replaced default email address in the page footer.
 
 = 1.0.1 September 11 2023 =
 * Compressed the theme screenshot.
