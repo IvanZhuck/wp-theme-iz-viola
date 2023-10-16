@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-IZ Viola is a light and simple WordPress theme. The theme supports Full Site Editing (FSE). It created for blog authors who look a minimal and lightweight visual solution for their blogs.
+IZ Viola is a Lightweight and simple WordPress theme. The theme supports Full Site Editing (FSE). It created for blog authors who look a minimal and lightweight visual solution for their blogs.
 
 == Copyright ==
 
