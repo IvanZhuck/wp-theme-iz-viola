@@ -2,7 +2,7 @@
 Contributors: Ivan Zhuck
 Tags: blog, one-column, block-patterns, block-styles, custom-background, custom-colors, custom-logo, custom-menu, editor-style, full-site-editing, grid-layout, photography, portfolio, template-editing, threaded-comments, translation-ready, wide-blocks
 Requires at least: 6.0
-Tested up to: 6.3
+Tested up to: 6.3.2
 Requires PHP: 7.4
 Version: 1.0.5
 Stable tag: 1.0.5
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-IZ Viola is a light and simple WordPress theme. The theme supports Full Site Editing (FSE). It created for blog authors who look a minimal and lightweight visual solution for their blogs.
+IZ Viola is a Lightweight and simple WordPress theme. The theme supports Full Site Editing (FSE). It created for blog authors who look a minimal and lightweight visual solution for their blogs.
 
 == Copyright ==
 
