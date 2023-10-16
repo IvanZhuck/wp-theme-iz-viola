@@ -4,8 +4,8 @@ Tags: blog, one-column, block-patterns, block-styles, custom-background, custom-
 Requires at least: 6.0
 Tested up to: 6.3.2
 Requires PHP: 7.4
-Version: 1.0.5
-Stable tag: 1.0.5
+Version: 1.0.6
+Stable tag: 1.0.6
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +46,11 @@ Soure: https://wordpress.org/photos/photo/67761b1e1e/
 
 == Changelog ==
 
-= 1.0.5 September 12 2023 =
+= 1.0.6 October 16 2023 =
+* Fixes for WP 6.3.2.
+* Updated description.
+
+= 1.0.5 October 15 2023 =
 * Added dark style.
 
 = 1.0.4 September 14 2023 =
