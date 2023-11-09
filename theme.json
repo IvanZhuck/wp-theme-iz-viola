@@ -93,6 +93,14 @@
 			"contentSize": "1140px",
 			"wideSize": "1200px"
 		},
+		"blocks": {
+			"core/image": {
+				"lightbox": {
+					"enabled": true,
+					"allowEditing": true
+				}
+			}
+		},
 		"spacing": {
 			"units": [
 				"px",
