@@ -2,7 +2,7 @@
 Contributors: Ivan Zhuck
 Tags: blog, one-column, block-patterns, block-styles, custom-background, custom-colors, custom-logo, custom-menu, editor-style, full-site-editing, grid-layout, photography, portfolio, template-editing, threaded-comments, translation-ready, wide-blocks
 Requires at least: 6.0
-Tested up to: 6.3.2
+Tested up to: 6.4.1
 Requires PHP: 7.4
 Version: 1.0.6
 Stable tag: 1.0.6
