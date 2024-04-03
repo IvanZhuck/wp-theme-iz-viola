@@ -2,10 +2,10 @@
 Contributors: Ivan Zhuck
 Tags: blog, one-column, block-patterns, block-styles, custom-background, custom-colors, custom-logo, custom-menu, editor-style, full-site-editing, grid-layout, photography, portfolio, template-editing, threaded-comments, translation-ready, wide-blocks
 Requires at least: 6.0
-Tested up to: 6.4.1
+Tested up to: 6.5
 Requires PHP: 7.4
-Version: 2.0.0
-Stable tag: 2.0.0
+Version: 2.1.0
+Stable tag: 2.1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,6 +45,9 @@ Soure: https://wordpress.org/photos/photo/67761b1e1e/
 
 
 == Changelog ==
+
+= 2.1.0 April 3 2024 =
+* Tested with WP 6.5.
 
 = 2.0.0 November 9 2023 =
 * Enabled default lightbox for images since WordPress 6.4.
